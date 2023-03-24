@@ -43,3 +43,21 @@ to obtain the correct syntax for the commands.
    :alt: See
    :height: 17.6px
    :target: #
+
+.. _problem-with-firefox-private-mode:
+
+Firefox private mode problems
+-----------------------------
+
+When NEST Desktop is opened in a private window in Firefox,
+only a blank screen is shown. This is due to an internal
+configuration in Firefox. If you are a very experienced user,
+you might have have a look at
+`the official issue <https://bugzilla.mozilla.org/show_bug.cgi?id=1639542#c9>`__
+for more information - but please keep in mind that the preliminary
+workaround mentioned there might result in your Firefox leaking
+data in private mode!
+For any other users, please use the normal mode in Firefox
+(and just `cleanup the cookies <https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox>`__
+afterwards) or use another browser, if you really need to
+use the private mode.

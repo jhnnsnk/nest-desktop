@@ -6,8 +6,8 @@ Maybe we can help with some answers to commonly asked questions and troublesome 
 
 .. _error-messages-frequently-asked-questions:
 
-Error messages
---------------
+Error messages and known problems
+---------------------------------
 
 .. toctree::
 
