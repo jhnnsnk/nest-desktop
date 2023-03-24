@@ -39,6 +39,8 @@ Project dialog
 It is possible to import projects from different sources:
 You can choose between drive (local storage), GitHub and
 URL (other one than GitHub URLs).
+The GitHub category points to a model collection available
+in the separate `NEST Desktop model repository <https://github.com/nest-desktop/nest-desktop-projects>`__.
 
 
 .. image:: /_static/img/screenshots/project/projects-import.png
