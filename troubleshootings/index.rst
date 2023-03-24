@@ -31,8 +31,8 @@ Frequently Asked Questions
 
 .. _troubleshootings-services:
 
-Services
---------
+Problems with services
+----------------------
 
 .. toctree::
 
