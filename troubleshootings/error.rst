@@ -77,7 +77,7 @@ you might have have a look at
 for more information - but please keep in mind that the preliminary
 workaround mentioned there might result in your Firefox leaking
 data in private mode!
-For any other users, please use the normal mode in Firefox
+For all other users, please use the normal mode in Firefox
 (and just `cleanup the cookies <https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox>`__
 afterwards) or use another browser, if you really need to
 use the private mode.
