@@ -71,8 +71,8 @@ Firefox private mode problems
 
 When NEST Desktop is opened in a private window in Firefox,
 only a blank screen is shown. This is due to an internal
-configuration in Firefox. If you are a very experienced user,
-you might have have a look at
+configuration in Firefox. If you are an experienced user,
+you might have a look at
 `the official issue <https://bugzilla.mozilla.org/show_bug.cgi?id=1639542#c9>`__
 for more information - but please keep in mind that the preliminary
 workaround mentioned there might result in your Firefox leaking
