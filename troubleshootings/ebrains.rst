@@ -1,4 +1,4 @@
-.. faq-ebrains:
+.. troubleshootings-ebrains:
 
 EBRAINS
 =======
@@ -15,3 +15,6 @@ Why cannot I find NEST Simulator?
    Please avoid to accidentally delete site data you want to keep!
    Ensure to export your projects if you want to keep them -
    the save button stores them only in the browser storage!
+
+Why do I receive the message "504 Gateway Time-out"?
+   Please have a look at the :ref:`section in the error codes<gateway-time-out>`.
