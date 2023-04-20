@@ -47,7 +47,7 @@ make it executable and then open it.
 
 .. code-block:: bash
 
-   VERSION=1.8.3
+   VERSION=1.8.8
    wget https://vg-lab.es/apps/visimpl/latest-release/visimpl-$VERSION-x86_64.AppImage
    chmod +x visimpl-$VERSION-x86_64.AppImage
    ./visimpl-$VERSION-x86_64.AppImage
