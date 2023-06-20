@@ -8,9 +8,23 @@ Conda |linux| |windows| |apple|
 
 Anaconda provides packages for `NEST Desktop <https://anaconda.org/conda-forge/nest-desktop>`__.
 and `NEST Simulator <https://anaconda.org/conda-forge/nest-simulator>`__.
-These packages can be installed with Conda.
-We highly recommend installing at least version 3 of NEST.
-Since NEST 3, the API server (i.e., NEST Server) is already implemented.
+These packages can be installed with Conda (from :bdg:`conda-forge`).
+Since NEST 3, the API server (i.e. :bdg:`NEST Server`) is implemented which is necessary for :bdg:`NEST Desktop`.
+
+|br|
+
+Prequistion for conda-forge
+---------------------------
+
+`Conda-forge` is a collection of packages led by the community (https://conda-forge.org/).
+By default :bdg:`conda` cannot install packages from the :bdg:`conda-forge`.
+
+Add channel for :bdg:`conda-forge`:
+
+   .. code-block:: bash
+
+   conda config --add channels conda-forge
+   conda config --set channel_priority strict
 
 |br|
 
