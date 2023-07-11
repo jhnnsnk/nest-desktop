@@ -1,5 +1,5 @@
-Use NESET Destkop with NRP
-==========================
+Use NEST Destkop with NRP
+=========================
 
 .. image:: /_static/img/gif/external-nrp.gif
    :align: left
