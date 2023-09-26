@@ -6,14 +6,14 @@ Use NEST Desktop with ViSimpl
    :alt: ViSimpl
    :target: #
 
-ViSimpl visualizes neural activity from brain simulation data.
-It displays spike activity in space and can be co-used with NEST Desktop.
+ViSimpl visualizes neural activity from brain simulation data. It displays spike activity in space and can be co-used
+with NEST Desktop.
 
 .. seeAlso::
    For this approach, we need to run the simulation with Insite as recording backend.
 
-   When you want to learn how to use NEST Desktop with Insite,
-   please read :doc:`/user/usage-external/simulate-with-insite`.
+   When you want to learn how to use NEST Desktop with Insite, please read
+   :doc:`/user/usage-external/simulate-with-insite`.
 
 |br|
 
@@ -42,8 +42,8 @@ Afterwards, you can start NEST Desktop (with Insite).
 
 ||||
 
-For ViSimpl, download the (binary) AppImage from the `page <https://vg-lab.es/visimpl/#downloads>`__,
-make it executable and then open it.
+For ViSimpl, download the (binary) AppImage from the `page <https://vg-lab.es/visimpl/#downloads>`__, make it executable
+and then open it.
 
 .. code-block:: bash
 
@@ -54,7 +54,6 @@ make it executable and then open it.
 
 .. hint::
    You can place NEST Desktop and ViSimpl side by side to see them both.
-
 
 |br|
 

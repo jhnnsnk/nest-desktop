@@ -96,17 +96,17 @@ Please keep this in mind when searching for information on a specific version of
    :alt: GitHub repository stars
    :target: https://github.com/nest-desktop/nest-desktop/stargazers
 
-.. |docker-version| image:: https://img.shields.io/docker/v/nestsim/nest-desktop/latest?logo=docker&logoColor=white
+.. |docker-version| image:: https://img.shields.io/docker/v/nest/nest-desktop/latest?logo=docker&logoColor=white
    :alt: Docker version
-   :target: https://hub.docker.com/r/nestsim/nest-desktop
+   :target: https://hub.docker.com/r/nest/nest-desktop
 
-.. |docker-image-size| image:: https://img.shields.io/docker/image-size/nestsim/nest-desktop/latest
+.. |docker-image-size| image:: https://img.shields.io/docker/image-size/nest/nest-desktop/latest
    :alt: Docker image size
-   :target: https://hub.docker.com/r/nestsim/nest-desktop
+   :target: https://hub.docker.com/r/nest/nest-desktop
 
-.. |docker-pulls| image:: https://img.shields.io/docker/pulls/nestsim/nest-desktop
+.. |docker-pulls| image:: https://img.shields.io/docker/pulls/nest/nest-desktop
    :alt: Docker pulls total
-   :target: https://hub.docker.com/r/nestsim/nest-desktop
+   :target: https://hub.docker.com/r/nest/nest-desktop
 
 .. |python-version| image:: https://img.shields.io/pypi/v/nest-desktop.svg?label=Python&logo=python&logoColor=white
    :alt: Python version

@@ -7,10 +7,9 @@ This is the guide for the model view in NEST Desktop.
    :align: left
    :target: #
 
-Below the icon for the project view, you can see the one of the model view,
-where you can :ref:`read the model description <model-view-model-documentation>`,
-:ref:`explore model activities <model-view-model-explorer>` or
-:ref:`edit model configurations <model-view-model-editor>`.
+Below the icon for the project view, you can see the one of the model view, where you can :ref:`read the model
+description <model-view-model-documentation>`, :ref:`explore model activities <model-view-model-explorer>` or :ref:`edit
+model configurations <model-view-model-editor>`.
 
 |br|
 
@@ -20,8 +19,7 @@ Models menu
 .. image:: /_static/img/screenshots/model/models-menu.png
    :align: left
 
-By clicking the right mouse button on the model icon, a menu appears
-where you can select actions for models.
+By clicking the right mouse button on the model icon, a menu appears where you can select actions for models.
 
 |br|
 
@@ -30,8 +28,8 @@ where you can select actions for models.
 Model dialog
 ------------
 
-You can import models from various sources,
-e.g. a file you uploaded from you computer, a file from a GitHub repository or from a specified URL.
+You can import models from various sources, e.g. a file you uploaded from you computer, a file from a GitHub repository
+or from a specified URL.
 
 .. image:: /_static/img/screenshots/model/models-import.png
    :target: #models-dialog
@@ -39,8 +37,8 @@ e.g. a file you uploaded from you computer, a file from a GitHub repository or f
 .. note::
    Model files should be formatted in JSON.
 
-When you select :bdg:`Import from GitHub`, choose an element type
-and then a JSON file of your desired model group which includes all functions of synapse currents.
+When you select :bdg:`Import from GitHub`, choose an element type and then a JSON file of your desired model group which
+includes all functions of synapse currents.
 
 The table shows a list of models from which you can select which ones you want to import.
 
@@ -57,8 +55,7 @@ Model navigation sidebar
 
 In the navigation sidebar you find a :ref:`model-view-model-toolbar` and then :ref:`model-view-model-list`.
 
-You can select a model to read its documentation,
-its activity or to edit its configuration.
+You can select a model to read its documentation, its activity or to edit its configuration.
 
 |br|
 
@@ -70,8 +67,8 @@ Model toolbar
 .. image:: /_static/img/screenshots/model/model-toolbar.png
    :target: #model-toolbar
 
-At the top of the navigation sidebar, you see a toolbar containing buttons
-to reload (|reload|), export (|export|), import (|import|), delete (|delete-models|) or reset (|reset|) multiple models.
+At the top of the navigation sidebar, you see a toolbar containing buttons to reload (|reload|), export (|export|),
+import (|import|), delete (|delete-models|) or reset (|reset|) multiple models.
 
 |br|
 
@@ -80,13 +77,9 @@ to reload (|reload|), export (|export|), import (|import|), delete (|delete-mode
 Model List
 ^^^^^^^^^^
 
-Above the model list you will find a search field and tags
-which you can use to filter the models in the list.
-Selected filter tags appear as chips under the search field.
-
-In order to select a tag you need to click on the `filter` icon left to the search field.
-Multiple filter tags can be applied.
-Selected filter tags can be removed (click on |close|).
+Above the model list you will find a search field and tags which you can use to filter the models in the list. Selected
+filter tags appear as chips under the search field. In order to select a tag you need to click on the `filter` icon left
+to the search field. Multiple filter tags can be applied. Selected filter tags can be removed (click on |close|).
 
 |br|
 
@@ -95,8 +88,8 @@ Selected filter tags can be removed (click on |close|).
 Import models
 *************
 
-Go to the model view and find your desired synapse model.
-Next, click on the icon |vertical-dots|, then select a menu item |import| :bdg:`import` to import it from GitHub.
+Go to the model view and find your desired synapse model. Next, click on the icon |vertical-dots|, then select a menu
+item |import| :bdg:`import` to import it from GitHub.
 
 |br|
 
@@ -109,8 +102,7 @@ Filter models
    :align: right
    :target: #filter-models
 
-It is possible to select filter tags to display only models with certain properties.
-The following filter tags are available:
+It is possible to select filter tags to display only models with certain properties. The following filter tags are available:
 
 Installed:
    Show models which are installed in NEST Desktop
@@ -140,7 +132,8 @@ Model documentation
 .. image:: /_static/img/screenshots/model/model-doc.png
    :target: #model-documentation
 
-It shows the official user documentation of a selected model which also can be found on http://nest-simulator.readthedocs.io/en/latest/models/.
+It shows the official user documentation of a selected model which also can be found on
+http://nest-simulator.readthedocs.io/en/latest/models/.
 
 |
 
@@ -175,8 +168,7 @@ You can use the code editor to see changes in activity.
 Model editor
 ^^^^^^^^^^^^
 
-The model editor allows you to make changes in parameter specifications,
-e.g. default value, unit, label or inputs.
+The model editor allows you to make changes in parameter specifications, e.g. default value, unit, label or inputs.
 
 .. image:: /_static/img/screenshots/model/model-editor.png
    :target: #model-editor

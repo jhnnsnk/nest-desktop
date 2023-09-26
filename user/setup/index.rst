@@ -6,9 +6,9 @@ This guide provides a detailed documentation on how to install and start both in
 Simulator.
 
 .. note::
-   To enable the full functionality of NEST Desktop, you also need to install NEST Simulator on your computer.
-   NEST Simulator provides an API Server which can forward requests to the simulation engine.
-   In summary, you have to start NEST Server as well.
+   To enable the full functionality of NEST Desktop, you also need to install NEST Simulator on your computer. NEST
+   Simulator provides an API Server which can forward requests to the simulation engine. In summary, you have to start
+   NEST Server as well.
 
    You can find the detailed information on NEST Server in
    :doc:`NEST Simulator user documentation <nest-simulator:connect_nest/nest_server>`.
@@ -27,8 +27,7 @@ You are able to download and start the NEST Desktop application, e.g. AppImage (
 NEST Simulator) in Linux.
 
 If you only have NEST Desktop (i.e., NEST Simulator is not running as back-end), you can create networks but cannot run
-simulations within the application.
-In this case, you have to start NEST Server in a terminal or with Docker.
+simulations within the application. In this case, you have to start NEST Server in a terminal or with Docker.
 
 .. seeAlso::
    :doc:`NEST Server user documentation <nest-simulator:connect_nest/nest_server>`

@@ -1,8 +1,8 @@
 Troubleshootings
 ================
 
-Having trouble getting something working? Got a question that the rest of our docs can’t answer?
-Maybe we can help with some answers to commonly asked questions and troublesome spots.
+Having trouble getting something working? Got a question that the rest of our docs cannot answer? Maybe we can help with
+some answers to commonly asked questions and troublesome spots.
 
 .. _error-messages-frequently-asked-questions:
 

@@ -131,9 +131,8 @@ List containers.
 
    docker-compose ps
 
-If there are no services (``nest-desktop`` and ``nest-simulator``) in the displayed list,
-it means that no containers can be started.
-You can attach a container for services without starting it using ``--no-start``.
+If there are no services (``nest-desktop`` and ``nest-simulator``) in the displayed list, it means that no containers
+can be started. You can attach a container for services without starting it using ``--no-start``.
 
 .. code-block:: bash
 
@@ -165,9 +164,8 @@ Set environments
 
 **Custom port of NEST Simulator**
 
-For some reason the port 52425 is already occupied and
-thus starting the server instance of NEST Simulator might cause conflicts.
-To resolve this issue, you can change the port to 54321 for NEST Simulator server instance.
+For some reason the port 52425 is already occupied and thus starting the server instance of NEST Simulator might cause
+conflicts. To resolve this issue, you can change the port to ``54321`` for NEST Simulator server instance.
 
 You have to change three lines:
 

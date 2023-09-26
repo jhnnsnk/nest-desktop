@@ -1,10 +1,9 @@
 Activity chart graph
 ====================
 
-The chart graph contains graphical panels organized in vertical stacks.
-Chart panels are introduced specifically to explore the network activity by mouse interaction.
-The simulation produces two different types of data sets:
-Spike events (recorded by :bdg:`spike recorder`) contain times and sender ids whereas analog signals contain continuous
+The chart graph contains graphical panels organized in vertical stacks. Chart panels are introduced specifically to
+explore the network activity by mouse interaction. The simulation produces two different types of data sets: Spike
+events (recorded by :bdg:`spike recorder`) contain times and sender ids whereas analog signals contain continuous
 quantities from the recording devices (:bdg:`voltmeter` or :bdg:`multimeter`).
 
 .. seeAlso::

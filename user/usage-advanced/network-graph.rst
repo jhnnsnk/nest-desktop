@@ -9,10 +9,8 @@ Network graph
 Node labels
 -----------
 
-Each node graph is labeled to identify the model of the node.
-By default, it creates a direct current generator (:bdg:`dc`) for a stimulus
-and a voltmeter (:bdg:`vm`) for a recording device.
-Neurons are just labeled with :bdg:`n`.
+Each node graph is labeled to identify the model of the node. By default, it creates a direct current generator
+(:bdg:`dc`) for a stimulus and a voltmeter (:bdg:`vm`) for a recording device. Neurons are just labeled with :bdg:`n`.
 You can find the full label of the node model in the network controller.
 
 |br|
@@ -26,11 +24,9 @@ Node colors
    :align: right
    :target: #node-colors
 
-Nodes and connections contain parameter configurations
-which are displayed in the controller panel in the side navigation.
-The color of nodes helps you to associate the network graph with the controller
-as well as the corresponding visualization of the network activity.
-The color of lines is defined by the source node.
+Nodes and connections contain parameter configurations which are displayed in the controller panel in the side
+navigation. The color of nodes helps you to associate the network graph with the controller as well as the corresponding
+visualization of the network activity. The color of lines is defined by the source node.
 
 |br|
 
@@ -41,12 +37,10 @@ Node shapes
 
 The specific shape defines an element type of a node:
 
-:Hexagon: A stimulus device alias stimulator is an instrument
-  which only produces signals towards target nodes.
-:Parallelogram: A recording device alias recorder is also an instrument
-  which observes states of a recordable node.
-:Others: A neuron node is the core engine of a neuronal network model
-  which received inputs from other nodes and produces specific output using intrinsic equation. For more information about neuron shapes, see the next section.
+:Hexagon: A stimulus device alias stimulator is an instrument which only produces signals towards target nodes.
+:Parallelogram: A recording device alias recorder is also an instrument which observes states of a recordable node.
+:Others: A neuron node is the core engine of a neuronal network model which received inputs from other nodes and
+    produces specific output using intrinsic equation. For more information about neuron shapes, see the next section.
 
 |br|
 

@@ -2,10 +2,9 @@ Copy models
 ===========
 
 
-NEST Simulator provides a function to copy a model together with its set of parameters.
-The ``nest.CopyModel()`` function is useful when multiple populations
-or synapses should be created with the same set of parameters.
-This simplifies the work a lot, as you can see in the example below:
+NEST Simulator provides a function to copy a model together with its set of parameters. The ``nest.CopyModel()``
+function is useful when multiple populations or synapses should be created with the same set of parameters. This
+simplifies the work a lot, as you can see in the example below:
 
 .. list-table::
    :widths: 50 50
@@ -76,8 +75,8 @@ How to copy models - step by step
    :align: right
    :target: #
 
-Click on the :bdg:`MODEL` tab in the network controller and then select a model to copy.
-Then confirm with a click on :bdg:`COPY`.
+Click on the :bdg:`MODEL` tab in the network controller and then select a model to copy. Then confirm with a click on
+:bdg:`COPY`.
 
 |br|
 
@@ -85,9 +84,8 @@ Then confirm with a click on :bdg:`COPY`.
    :align: right
    :target: #
 
-Enter the name of the new model. If you like to have other model parameters than
-the default one, just click on the model title and select the parameters you want to change.
-This opens the sliders and fields to edit their values.
+Enter the name of the new model. If you like to have other model parameters than the default one, just click on the
+model title and select the parameters you want to change. This opens the sliders and fields to edit their values.
 
 |br|
 

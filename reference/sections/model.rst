@@ -4,10 +4,9 @@ Model view
 Left sidebar
 ------------
 
-In this view you can manage your models.
-The left sidebar shows a list of the available models.
-You can search the models list in the search bar on top of the list.
-Below the search bar, you have the possibility to select the following filter options regarding node type and model source:
+In this view you can manage your models. The left sidebar shows a list of the available models. You can search the
+models list in the search bar on top of the list. Below the search bar, you have the possibility to select the following
+filter options regarding node type and model source:
 
 Installed
   selects only models which are installed locally
@@ -23,22 +22,25 @@ Synapse
   selects all synapse models
 
 
-Please be aware that the model source filters work like a logical AND, while the node type filters work like a logical OR.
-The node and source filters are combined with a logical AND (e.g. "(Installed AND GitHub) AND (Neuron OR Simulator)").
+Please be aware that the model source filters work like a logical AND, while the node type filters work like a logical
+OR. The node and source filters are combined with a logical AND (e.g. "(Installed AND GitHub) AND (Neuron OR
+Simulator)").
 
 Center area
 -----------
 
-The center area displays the content for the model.
-The bar on top contains three selectors on the left side,
-which allow to switch between different content for the center area:
+The center area displays the content for the model. The bar on top contains three selectors on the left side, which
+allow to switch between different content for the center area:
 
 DOC
-  model documentation (section contains a reference to the content within the NEST documentation in the upper right corner)
+  model documentation (section contains a reference to the content within the NEST documentation in the upper right
+  corner)
 EXPLORER
-  diagram(s) of the simulation results for an exemplary network containing this model (code can be found in the right sidebar)
+  diagram(s) of the simulation results for an exemplary network containing this model (code can be found in the right
+  sidebar)
 EDITOR
-  input fields to adjust all parameter settings, including value, value range, displayed unit and label, but also the settings for the input field in NEST Desktop
+  input fields to adjust all parameter settings, including value, value range, displayed unit and label, but also the
+  settings for the input field in NEST Desktop
 
 Right sidebar
 -------------

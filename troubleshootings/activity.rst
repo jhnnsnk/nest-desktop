@@ -20,8 +20,7 @@ How can I reset the view to the default one?
    Click on the house icon in the mode bar (top) to reset the view to the default one.
 
 How can I download a plot of the chart?
-   Click on the photo icon (top) to download the plot of the chart.
-   You can choose which format will be used.
+   Click on the photo icon (top) to download the plot of the chart. You can choose which format will be used.
 
 Where can I find the activity controller?
    You can find the activity controller by clicking on the `chart` icon on the right side.
@@ -54,8 +53,8 @@ How can I increase/decrease the animation speed?
    In the animation controller you will find a forward or backward button to alter the animation speed.
 
 How can I change the colorscale of dots?
-   In the animation controller you will find a colormap of the current colorscale.
-   A little below you will find an options to select the colorscale.
+   In the animation controller you will find a colormap of the current colorscale. A little below you will find an
+   options to select the colorscale.
 
 How can I change the size of dots?
    In the animation controller you can find a slider to adjust the dot size.

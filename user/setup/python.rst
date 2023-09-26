@@ -35,8 +35,8 @@ NEST Simulator
 
       nest-server start
 
-NEST Server is now running at http://localhost:52425.
-You can find the detailed information on NEST Server :doc:`here <nest-simulator:connect_nest/nest_server>`.
+NEST Server is now running at http://localhost:52425. You can find the detailed information on NEST Server
+:doc:`here <nest-simulator:connect_nest/nest_server>`.
 
 NEST Desktop
 ------------
@@ -57,8 +57,7 @@ NEST Desktop
 
       nest-desktop start
 
-Now NEST Desktop is started.
-You can use NEST Desktop in the web browser at http://localhost:54286.
+Now NEST Desktop is started. You can use NEST Desktop in the web browser at http://localhost:54286.
 
 **The installation is now complete!**
 :doc:`Now you can start constructing networks for the simulation! </user/usage-basic/index>`
