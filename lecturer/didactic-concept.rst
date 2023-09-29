@@ -1,5 +1,5 @@
- concept
-=================
+Didactic concept
+================
 
 NEST Desktop focuses on teaching university students, for whom significant programming skills cannot be assumed. The
 goal is to give them an introduction to computational neuroscience, and illustrate how computer simulations are used in
