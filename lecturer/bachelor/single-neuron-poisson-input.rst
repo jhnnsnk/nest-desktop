@@ -38,7 +38,7 @@ to explore the response behavior of neurons:
    the rate :math:`\lambda_{I}` of the inhibitory Poisson process.
 
    Begin your simulation experiments by fixing :math:`\lambda_{E} = \lambda_{I}` assuming exactly the same firing rate
-   for excitatory and inhibitory inputs.    Start with small rates (subthreshold) and jointly increase them step by step
+   for excitatory and inhibitory inputs. Start with small rates (subthreshold) and jointly increase them step by step
    until output spikes are generated (superthreshold). Describe your observations for weak and for strong input, both on
    the level of the membrane potential and on the level of output spike trains.
 
