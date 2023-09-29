@@ -6,8 +6,8 @@ Deploy on OpenShift
    :alt: OpenShift
    :width: 240px
 
-This part of the documentation shows how to deploy NEST Desktop on OpenShift resources.
-In the following, we will use the deployment process of NEST Desktop on the OpenShift resources of EBRAINS as an example of practice.
+This part of the documentation shows how to deploy NEST Desktop on OpenShift resources. In the following, we will use
+the deployment process of NEST Desktop on the OpenShift resources of EBRAINS as an example of practice.
 
 Requirements:
   - `OC Client Tools <https://www.okd.io/download.html#oc-platforms>`__
@@ -39,8 +39,8 @@ EBRAINS provides two OKD infrastructures:
 Register client for authentication on EBRAINS
 ---------------------------------------------
 
-To access to NEST Desktop on EBRAINS infrastructure, an authentication is requested.
-You find the codes on https://github.com/nest-desktop/apache2-oidc.
+To access to NEST Desktop on EBRAINS infrastructure, an authentication is requested. You find the codes on
+https://github.com/nest-desktop/apache2-oidc.
 
 Here are the steps how to setup the authentication for NEST Desktop properly.
 
@@ -63,7 +63,8 @@ Keep ``client_id`` and ``client_secret`` for the **okd** infrastructure.
 Build NEST Desktop on EBRAINS
 -----------------------------
 
-First, copy the command line from the web console of ``https://okd-dev.hbp.eu`` and enter in terminal to login via ``oc``:
+First, copy the command line from the web console of ``https://okd-dev.hbp.eu`` and enter in terminal to login via
+``oc``:
 
 .. code-block:: bash
 
@@ -75,10 +76,9 @@ Get the status of the current project:
 
    oc status
 
-You can find the configurations on https://github.com/nest-desktop/nest-desktop-ebrains.
-Therein, you have to modify the environment for EBRAINS authentication,
-i.e. ``OIDC_CLIENT_ID`` and ``OIDC_CLIENT_SECRET`` of NEST Desktop
-(which is printed after setting up the client for NEST Desktop).
+You can find the configurations on https://github.com/nest-desktop/nest-desktop-ebrains. Therein, you have to modify the
+environment for EBRAINS authentication, i.e. ``OIDC_CLIENT_ID`` and ``OIDC_CLIENT_SECRET`` of NEST Desktop (which is
+printed after setting up the client for NEST Desktop).
 
 Execute the bash script to deploy the ``nest-desktop``, ``nest-server`` and ``apache2-oidc`` containers:
 

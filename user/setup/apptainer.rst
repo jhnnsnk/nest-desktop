@@ -6,9 +6,8 @@ Apptainer |linux|
    :target: #apptainer-linux
    :width: 120px
 
-Apptainer, former Singularity, is an application container for **Linux** systems.
-For more information read the full documentation of Apptainer
-`here <https://apptainer.org/>`__.
+Apptainer, former Singularity, is an application container for **Linux** systems. For more information read the full
+documentation of Apptainer `here <https://apptainer.org/>`__.
 
 |br|
 
@@ -29,8 +28,7 @@ Get recipes
    export PATH=$PATH:$PWD/bin/
 
 .. note::
-   You will have to repeat this every time you end a terminal session.
-   If you like to register this command permanently,
+   You will have to repeat this every time you end a terminal session.If you like to register this command permanently,
    please proceed according to the `full documentation <https://github.com/nest-desktop/nest-desktop-apptainer>`__.
 
 Build image
@@ -43,8 +41,8 @@ Build image
    nest-desktop-apptainer build
 
 .. note::
-   This command (and the following ones) need to be executed inside the folder
-   where the container files are located, i.e. the ``nest-desktop-apptainer`` folder.
+   This command (and the following ones) need to be executed inside the folder where the container files are located,
+   i.e. the ``nest-desktop-apptainer`` folder.
 
 Start container
 ---------------
@@ -55,8 +53,7 @@ Start container
 
    nest-desktop-apptainer start
 
-Now NEST Desktop is started.
-You can use NEST Desktop in the web browser at http://localhost:54286.
+Now NEST Desktop is started. You can use NEST Desktop in the web browser at http://localhost:54286.
 
 **The installation is now complete!**
 :doc:`Now we can start constructing networks for the simulation! </user/usage-basic/index>`

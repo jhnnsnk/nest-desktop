@@ -2,8 +2,7 @@ Deploy NEST Desktop with Insite
 ===============================
 
 
-The Insite system can be served as a used for NEST Desktop.
-It allows to visualize activity of the live simulation.
+The Insite system can be served as a used for NEST Desktop. It allows to visualize activity of the live simulation.
 
 |
 
@@ -16,8 +15,7 @@ First, get the configuration file for Docker Compose.
 
    wget https://raw.githubusercontent.com/nest-desktop/nest-desktop-docker/main/examples/insite/docker-compose.yml
 
-For more information about Docker Compose, please read the
-corresponding :doc:`documentation </deployer/deploy-docker-compose>`.
+For more information about Docker Compose, please read the corresponding :doc:`documentation </deployer/deploy-docker-compose>`.
 
 |
 
@@ -27,8 +25,7 @@ Next, start all services of the Docker Compose file.
 
    docker-compose up
 
-NEST Desktop is now served at ``http://localhost:54286``,
-whereas Insite NEST Module and Insite Access Node are served
+NEST Desktop is now served at ``http://localhost:54286``, whereas Insite NEST Module and Insite Access Node are served
 at ``http://localhost:52425`` and ``http://localhost:52056``, respectively.
 
 .. seeAlso::

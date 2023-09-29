@@ -9,10 +9,9 @@ This is a basic usage guide for the Graphical User Interface (GUI) of NEST Deskt
    we have prepared a :ref:`video <first-steps>`
    showing the steps how to :ref:`usage-basic-construct-networks` and :ref:`usage-basic-explore-activity`.
 
-Once you start NEST Desktop, you can see the start page
-containing an image of a laptop with the NEST logo on its screen.
-At the bottom it shows a short description of NEST Desktop (left)
-and some useful links and the current version (right).
+Once you start NEST Desktop, you can see the start page containing an image of a laptop with the NEST logo on its
+screen. At the bottom it shows a short description of NEST Desktop (left) and some useful links and the current version
+(right).
 
 .. image:: /_static/img/screenshots/start-page.png
    :target: #

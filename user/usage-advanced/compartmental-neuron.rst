@@ -1,8 +1,8 @@
 Compartmental model
 ===================
 
-NEST Simulator is actually a simulation tool of point-neurons but it also provides a model :bdg:`cm_default` which is a neurons with compartments.
-Here, the guide shows the steps to create a simple neuron with compartments.
+NEST Simulator is actually a simulation tool of point-neurons but it also provides a model :bdg:`cm_default` which is a
+neurons with compartments. Here, the guide shows the steps to create a simple neuron with compartments.
 
 
 .. _compartmental-model-steps-how-to:
@@ -14,9 +14,9 @@ Step by step guide
    :align: right
    :target: #
 
-First import :bdg:`cm_default` from GitHub and create a node with :bdg:`cm_default`.
-Then open node selection popup, add compartments (|new|) and select compartment parameters to modify.
-Add receptors (|new|) in each compartment and select receptor parameters to modify.
+First import :bdg:`cm_default` from GitHub and create a node with :bdg:`cm_default`. Then open node selection popup, add
+compartments (|new|) and select compartment parameters to modify. Add receptors (|new|) in each compartment and select
+receptor parameters to modify.
 
 Click on the chips (:bdg:`soma 1`, :bdg:`dendrite 1`, ...) of a compartment to see its content.
 

@@ -10,8 +10,8 @@ First, prepare the development environment with the required packages.
 The Live Development Server is now serving at ``http://localhost:54286``.
 
 .. note::
-   For more information on how to prepare the environment for the development,
-   please check the :doc:`guide </developer/stages/preparation>`.
+   For more information on how to prepare the environment for the development, please check the
+   :doc:`guide </developer/stages/preparation>`.
 
 |
 
@@ -20,10 +20,8 @@ The Live Development Server is now serving at ``http://localhost:54286``.
 Setup
 -----
 
-It is possible to install NEST Desktop from source code on a local machine using ``pip``
-(where it finds ``setup.py``).
-The recommended method is to install it in the user's home directory using the
-command argument ``--user``.
+It is possible to install NEST Desktop from source code on a local machine using ``pip`` (where it finds ``setup.py``).
+The recommended method is to install it in the user's home directory using the command argument ``--user``.
 
 .. code-block:: bash
 
@@ -52,10 +50,9 @@ Fetch the data from GitHub (download it to your local directory):
 
    git fetch
 
-This command can be varied with options to e.g. fetch all branches (``git fetch --all``)
-or to discard unreachable content (``git fetch --prune``),
-even with multiple of them.
-If required, intergrate the changes from GitHub into your local repository:
+This command can be varied with options to e.g. fetch all branches (``git fetch --all``) or to discard unreachable
+content (``git fetch --prune``), even with multiple of them. If required, intergrate the changes from GitHub into your
+local repository:
 
 .. code-block:: bash
 
@@ -87,9 +84,9 @@ Finally, push all of them to repository on the internet (and create a merge requ
 
    git push --set-upstream origin newBranch
 
-A merge request will then be handled by the team:
-It will be reviewed and if it provides some nice additions, it will be merged.
+A merge request will then be handled by the team: It will be reviewed and if it provides some nice additions, it will be
+merged.
 
 .. note::
-   It is likely that the review contains some change requests which have to be
-   addressed and committed by you before the merge can be made.
+   It is likely that the review contains some change requests which have to be addressed and committed by you before the
+   merge can be made.

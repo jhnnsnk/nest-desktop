@@ -21,7 +21,7 @@ import sphinx_material
 project = 'NEST Desktop'
 author = 'Sebastian Spreizer'
 copyright = '2016-2023, Sebastian Spreizer'
-version = '3.2'
+version = '3.3'
 
 
 # -- General configuration ---------------------------------------------------

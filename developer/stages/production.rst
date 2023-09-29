@@ -23,8 +23,7 @@ Python
 |br|
 
 Building and pushing NEST Desktop on `PyPI <https://pypi.org/project/nest-desktop/>`__ is a required step for the
-production.
-After that, Docker Hub can upgrade NEST Desktop in the provided Docker image.
+production. After that, Docker Hub can upgrade NEST Desktop in the provided Docker image.
 
 Requirements
   - setuptools, wheel, twine
@@ -68,8 +67,7 @@ Then generate the distribution packages of `nest-desktop` for PyPI:
 Upload
 ^^^^^^
 
-Finally, the package is ready for the the publication.
-You can upload the pip-package of ``nest-desktop`` to PyPI:
+Finally, the package is ready for the the publication. You can upload the pip-package of ``nest-desktop`` to PyPI:
 
 .. code-block:: bash
 
@@ -125,8 +123,32 @@ Then install the ``.deb`` file on your Linux system.
 .. seeAlso::
    If you want to build other Electron packages, please have a look into ``electron-builder.yml`` file.
 
-   For Snap packages, you can find more information in the `Snap repository for nest-desktop <https://github.com/nest-desktop/nest-desktop-snap>`__.
 
+Snap (``.snap`` package)
+------------------------
+
+By default snapcraft runs with 2G memory, which is not enough for building electron. To use snapcraft with larger
+memory:
+
+.. code-block:: bash
+
+   SNAPCRAFT_BUILD_ENVIRONMENT_MEMORY=8G snapcraft
+
+Then install the snap file locally:
+
+.. code-block:: bash
+
+   sudo snapcraft install <snap-file> --dangerous
+
+Finally, upload the snap file:
+
+.. code-block:: bash
+
+   snapcraft upload <snap-file>
+
+.. seeAlso::
+   For Snap packages, you can find more information in the `Snap repository for nest-desktop
+   <https://github.com/nest-desktop/nest-desktop-snap>`__.
 
 .. |see| image:: /_static/img/icons/arrow-right.svg
    :alt: See

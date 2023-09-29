@@ -1,7 +1,7 @@
-# File: docs/requirements.txt
+# File: requirements.txt
 
-pip==22.3.1
-sphinx_design==0.3.0
-sphinx-copybutton==0.5.1
+pip==23.1.2
+Sphinx==6.2.*
+sphinx_design==0.4.1
+sphinx-copybutton==0.5.2
 sphinx-material==0.0.35
-Sphinx==5.3.*

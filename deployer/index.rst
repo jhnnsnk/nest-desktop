@@ -2,8 +2,8 @@
 |deployer| Deployer guide
 =========================
 
-This guide provides detailed documentation on how to deploy NEST Desktop.
-You can read the deployment instructions by clicking one of these images below.
+This guide provides detailed documentation on how to deploy NEST Desktop. You can read the deployment instructions by
+clicking one of these images below.
 
 
 Deploy NEST Desktop
