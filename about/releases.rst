@@ -5,10 +5,10 @@ v3.3.x
 ------
 
 Add node annotation, outsource docs to own repository, implement code for
-CoSim and PyNN, add access token for backend (for Jupyter proxy extension)
+CoSim and PyNN, add access token for backend (for Jupyter proxy extension).
 
 ==========  =======
-xx Sep 23   v3.3.0
+28 Sep 23   v3.3.0
 ==========  =======
 
 v3.2.x
