@@ -44,7 +44,7 @@ Events
 2020
 ----
 
-:30 Sep - 01 Oct: Hand-on Session and Poster at `Bernstein Conference 2020 <https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/f33d04d5-27fc-45b1-9d7a-44e2a0f28360>`_, online (Berlin, Germany).
+:30 Sep - 1 Oct: Hand-on Session and Poster at `Bernstein Conference 2020 <https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/f33d04d5-27fc-45b1-9d7a-44e2a0f28360>`_, online (Berlin, Germany).
 :18 - 22 Jul: Tutorial with NESTML, presented by Dr. Linssen, at `CNS 2020 <https://www.cnsorg.org/cns-2020-tutorials#T1>`_, online (Melbourne, Australia).
 :29 - 30 Jun: Talk "NEST Desktop" at `NEST Conference <https://indico-jsc.fz-juelich.de/event/115/>`_, online (As, Norway).
 :02 - 17 Jun: MSc course "Biophysics of Neurons and Networks" at BCF [#f1]_, online (Freiburg, Germany).

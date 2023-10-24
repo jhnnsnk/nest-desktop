@@ -7,7 +7,7 @@ NEST Desktop on Jupyter JSC
 
 |br|
 
-`Jupyter-JSC <https://jupyter-jsc.fz-juelich.de>`_ is designed to provide the rich high performance computing (HPC)
+`Jupyter JSC <https://jupyter-jsc.fz-juelich.de>`_ is designed to provide the rich high performance computing (HPC)
 ecosystem to the world's most popular software: web browsers. JupyterLab is a web-based interactive development
 environment for Jupyter notebooks, code, and data. JupyterLab is flexible to support a wide range of workflows in data
 science, scientific computing, and machine learning.
@@ -18,7 +18,7 @@ Requirements
 How to start NEST Desktop on Jupyter-JSC
 ----------------------------------------
 
-#. Go to `JSC-Jupyter <https://jupyter-jsc.fz-juelich.de/>`_.
+#. Go to `Jupyter JSC <https://jupyter-jsc.fz-juelich.de/>`_.
 
 #. Login with JSC account.
 
