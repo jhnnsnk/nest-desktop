@@ -10,7 +10,7 @@ Docker is a virtualization software packaging applications and its dependencies.
 multi-container applications on Docker which uses the Compose file format.
 
 .. seeAlso::
-  For further information, please see the `official page of Docker Compose <https://github.com/docker/compose>`__.
+  For further information, please see the `official page of Docker Compose <https://github.com/docker/compose>`_.
 
 |br|
 
@@ -34,7 +34,7 @@ Windows |windows| and macOS |apple|
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Docker Compose is included in Docker Desktop for Windows and macOS. For more information, take a look at the
-`installation guide of Docker Desktop <https://www.docker.com/get-started>`__.
+`installation guide of Docker Desktop <https://www.docker.com/get-started>`_.
 
 |br|
 
@@ -42,7 +42,7 @@ Pull and start Docker containers
 --------------------------------
 
 #. Get the configuration file for Docker Compose
-   (`docker-compose.yml <https://raw.githubusercontent.com/nest-desktop/nest-desktop/main/docker-compose.yml>`__)
+   (`docker-compose.yml <https://raw.githubusercontent.com/nest-desktop/nest-desktop/main/docker-compose.yml>`_)
 
    .. code-block:: bash
 
@@ -62,4 +62,4 @@ at http://localhost:54286.
 
 .. seeAlso::
    For more information (like running the containers without root password, etc.), please read the full documentation
-   of `NEST Desktop Docker <https://github.com/nest-desktop/nest-desktop-docker>`__.
+   of `NEST Desktop Docker <https://github.com/nest-desktop/nest-desktop-docker>`_.

@@ -248,7 +248,7 @@ v1.x
    :class: border mb-3
    :width: 480
 
-NEST Desktop runs in nginx and requires the backend `NEST Server <https://github.com/babsey/nest-server>`__.
+NEST Desktop runs in nginx and requires the backend `NEST Server <https://github.com/babsey/nest-server>`_.
 
 ==========  =====
 23 Jul 19   v1.5

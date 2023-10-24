@@ -22,7 +22,7 @@ Requirements
 How to use
 ----------
 
-#. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`__.
+#. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`_.
 
 #. Go to NEST Desktop Service.
 

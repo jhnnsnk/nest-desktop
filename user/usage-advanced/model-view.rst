@@ -108,7 +108,7 @@ Installed:
    Show models which are installed in NEST Desktop
 
 GitHub:
-   Show models which are provided in `an own GitHub repository <https://github.com/nest-desktop/nest-desktop-models>`__
+   Show models which are provided in `an own GitHub repository <https://github.com/nest-desktop/nest-desktop-models>`_
 
 Neuron/stimulator/recorder/synapse:
    Show models of the selected element type

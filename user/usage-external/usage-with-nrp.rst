@@ -11,7 +11,7 @@ This is a guide to show how to use NEST Desktop with NRP (Neuro-Robotic Platform
 The NRP enables users to perform virtual experiments on virtual objects (e.g. robots, robotic arms) or on virtual animals (e.g. rats).
 
 In our case we use NRP to learn neuronal activity dynamics of the "robot brain" according to a thought experiment by the
-cyberneticist `Valentino Braitenberg <https://en.wikipedia.org/wiki/Valentino_Braitenberg>`__.
+cyberneticist `Valentino Braitenberg <https://en.wikipedia.org/wiki/Valentino_Braitenberg>`_.
 
 His thought experiment demonstrated a simple concept of the brain interacting with the environment with a simple
 machine. The simplest concept of this so-called `Braitenberg vehicle

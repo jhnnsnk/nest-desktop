@@ -2,7 +2,7 @@ Coding conventions
 ==================
 
 Coding conventions help to generate good code. Therefore, we use some recommendations regarding the coding style. Most
-of them follow the conventions used by Git, Linux and `other projects <https://namingconvention.org/git/>`__. Some more
+of them follow the conventions used by Git, Linux and `other projects <https://namingconvention.org/git/>`_. Some more
 central ones will be mentioned in the following.
 
 .. _general-coding-conventions:
@@ -15,13 +15,13 @@ General coding conventions
 - In ``.rst`` files, the line length should not exceed 120 by much. \
   This is of course not a fixed rule, \
   but the `.editorconfig` seems `not to be able to guarantee this
-  <https://github.com/editorconfig/editorconfig/issues/387#ruler>`__ \
+  <https://github.com/editorconfig/editorconfig/issues/387#ruler>`_ \
   and we have not found a convincing alternative. \
   A bigger problem is that there are cases, where longer lines make sense \
   (e.g when they contain very long URLs or within bullet points, \
   the latter with the possibility to use backslashes, which is sometimes quite cumbersome).
 - The general coding conventions for Vue, TypeScript \
-  and for Python (|see| `PEP 8 <https://www.python.org/dev/peps/pep-0008/>`__) should be followed.
+  and for Python (|see| `PEP 8 <https://www.python.org/dev/peps/pep-0008/>`_) should be followed.
 - For ``.ts`` files, the type ``any`` should be used as rarely as possible \
   (and might be removed in the future).
 - The general recommendations for good (Vue) code should be applied, e.g. \
@@ -50,7 +50,7 @@ Commits
 Pull requests
   - The rules for commits also apply here.
   - Please have a look at the `GitHub keywords in issues and pull requests
-    <https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests>`__ .
+    <https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests>`_.
 
 .. _naming-conventions:
 
@@ -73,7 +73,7 @@ Sphinx conventions
 - We usually capitalize only the first letter of a title (or heading), \
   except programming expressions like class names, proper names, etc. \
   We also recommend the Python documentation conventions, as suggested in `the official documentation
-  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#sections>`__ .
+  <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#sections>`_.
 
 
 .. |see| image:: /_static/img/icons/arrow-right.svg

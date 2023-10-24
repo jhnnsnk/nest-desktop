@@ -76,7 +76,7 @@ receives activity from the Insite access node on another port (default: ``52056`
 
 .. seeAlso::
    For more information about Insite, please visit the official
-   `documentation of Insite <https://vrgrouprwth.github.io/insite/>`__ from the VR Group of RWTH Aachen.
+   `documentation of Insite <https://vrgrouprwth.github.io/insite/>`_ from the VR Group of RWTH Aachen.
 
 |br|
 
