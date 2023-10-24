@@ -124,11 +124,6 @@ html_theme_options = {
             "title": "Offical page",
         },
         {
-            "href": "https://ebrains.eu/service/nest-desktop/",
-            "internal": False,
-            "title": "NEST Desktop on EBRAINS",
-        },
-        {
             "href": "https://nest-simulator.readthedocs.io/",
             "internal": False,
             "title": "NEST Simulator",
