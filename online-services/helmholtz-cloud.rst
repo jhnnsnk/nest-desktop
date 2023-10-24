@@ -22,9 +22,9 @@ Requirements
 How to use
 ----------
 
-1. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`__.
+#. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`__.
 
-2. Go to NEST Desktop Service.
+#. Go to NEST Desktop Service.
 
-3. Login with Helmholtz ID.
+#. Login with Helmholtz ID.
 

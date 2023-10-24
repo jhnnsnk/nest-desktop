@@ -16,8 +16,8 @@ Requirements
 How to use
 ----------
 
-1. Go to `NEST Desktop on EBRAINS <https://www.ebrains.eu/tools/nest-desktop>`__.
+#. Go to `NEST Desktop on EBRAINS <https://www.ebrains.eu/tools/nest-desktop>`__.
 
-2. Click on `Lunch online` button.
+#. Click on `Lunch online` button.
 
-3. Login with EBRAINS account.
+#. Login with EBRAINS account.
