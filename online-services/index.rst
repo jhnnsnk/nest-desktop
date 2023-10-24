@@ -13,4 +13,4 @@ NEST Desktop is provided on various online services. The user can perform simula
 services without any need of installation.
 
 .. raw:: html
-   :file: ./templates/online-services.html
+   :file: ../templates/online-services.html
