@@ -42,7 +42,7 @@ Afterwards, you can start NEST Desktop (with Insite).
 
 ||||
 
-For ViSimpl, download the (binary) AppImage from the `page <https://vg-lab.es/visimpl/#downloads>`__, make it executable
+For ViSimpl, download the (binary) AppImage from the `page <https://vg-lab.es/visimpl/#downloads>`_, make it executable
 and then open it.
 
 .. code-block:: bash

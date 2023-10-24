@@ -32,7 +32,7 @@ views.
 Page colors
 -----------
 
-The color code was taken from `Adobe <https://color.adobe.com/de/create/color-wheel>`__. The colors of the pages are
+The color code was taken from `Adobe <https://color.adobe.com/de/create/color-wheel>`_. The colors of the pages are
 taken from the split complementary of the NEST default color (#ff6633).
 
 .. _interface-concept_navigation-sidebar-left:

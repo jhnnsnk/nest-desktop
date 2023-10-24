@@ -9,7 +9,7 @@ Deploy with Docker Compose
 Docker is a virtualization software packaging applications and its dependencies in a virtual container
 that can run on any Linux server.
 It is available for a variety of the operating systems, e.g. Linux, Mac and Windows.
-For more information follow the link `here <https://www.docker.com/resources/what-container>`__.
+For more information follow the link `here <https://www.docker.com/resources/what-container>`_.
 
 NEST Desktop and NEST Simulator are prepared in different containers,
 but you can use docker-compose to start multiple containers, e.g. NEST Desktop, NEST Simulator.
@@ -18,7 +18,7 @@ Docker Compose needs the configuration file (``docker-compose.yml``).
 Here, the guide shows you how to build containers with ``docker-compose``.
 
 Requirements:
-  - `Docker Compose <https://docs.docker.com/compose/>`__
+  - `Docker Compose <https://docs.docker.com/compose/>`_
 
 |
 

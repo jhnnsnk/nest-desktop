@@ -274,7 +274,7 @@ v0.x
    :class: mb-3
    :width: 480
 
-NEST Desktop runs in Electron and requires the backend `NEST Server Simulation <https://github.com/babsey/nest-server-simulation>`__.
+NEST Desktop runs in Electron and requires the backend `NEST Server Simulation <https://github.com/babsey/nest-server-simulation>`_.
 The app uses Angular as web framework and D3.js for network and activity graphs.
 
 ==========  ========
