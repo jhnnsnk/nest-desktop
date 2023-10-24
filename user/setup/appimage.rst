@@ -7,7 +7,7 @@ AppImage |linux|
    :width: 120px
 
 You can download an AppImage from the `releases page
-<https://github.com/nest-desktop/nest-desktop-AppImage/releases>`__.
+<https://github.com/nest-desktop/nest-desktop-AppImage/releases>`_.
 
 Click on the `.AppImage` file to open NEST Desktop.
 

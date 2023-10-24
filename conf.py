@@ -32,6 +32,7 @@ version = '3.3'
 extensions = [
     'sphinx_copybutton',
     'sphinx_design',
+    "sphinx_new_tab_link",
     'sphinx.ext.autodoc',
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.intersphinx',

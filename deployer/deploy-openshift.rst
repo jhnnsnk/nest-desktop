@@ -10,7 +10,7 @@ This part of the documentation shows how to deploy NEST Desktop on OpenShift res
 the deployment process of NEST Desktop on the OpenShift resources of EBRAINS as an example of practice.
 
 Requirements:
-  - `OC Client Tools <https://www.okd.io/download.html#oc-platforms>`__
+  - `OC Client Tools <https://www.okd.io/download.html#oc-platforms>`_
 
 
 .. _deploy-openshift_deploy-nest-desktop-on-ebrains:

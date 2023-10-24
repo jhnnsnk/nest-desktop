@@ -16,8 +16,8 @@ in Baden-Württemberg, Germany. For more information bwCloud, follow the link:  
 Deployers can build an OpenStack image via Packer and Ansible.
 
 Requirements:
-  - `Packer <https://www.packer.io/downloads.html>`__
-  - `Ansible (2.3.2.0 or newer) <https://releases.ansible.com/ansible/>`__
+  - `Packer <https://www.packer.io/downloads.html>`_
+  - `Ansible (2.3.2.0 or newer) <https://releases.ansible.com/ansible/>`_
 
 
 Deploy NEST Desktop on bwCloud
@@ -32,7 +32,7 @@ Deploy NEST Desktop on bwCloud
 You can find the source code on https://github.com/nest-desktop/nest-desktop-bwCloud.
 
 #. Download the OpenStack RC File from
-   `bwCloud dashboard <https://portal.bw-cloud.org/project/api_access/>`__:
+   `bwCloud dashboard <https://portal.bw-cloud.org/project/api_access/>`_:
 
    :bdg:`Project` -> :bdg:`API Access` -> :bdg:`Download OpenStack RC File`
 

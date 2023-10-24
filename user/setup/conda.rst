@@ -6,8 +6,8 @@ Conda |linux| |windows| |apple|
    :target: #conda-linux-windows-apple
    :width: 120px
 
-Anaconda provides packages for `NEST Desktop <https://anaconda.org/conda-forge/nest-desktop>`__. and `NEST Simulator
-<https://anaconda.org/conda-forge/nest-simulator>`__. These packages can be installed with Conda (from
+Anaconda provides packages for `NEST Desktop <https://anaconda.org/conda-forge/nest-desktop>`_. and `NEST Simulator
+<https://anaconda.org/conda-forge/nest-simulator>`_. These packages can be installed with Conda (from
 :bdg:`conda-forge`). Since NEST 3, the API server (i.e. :bdg:`NEST Server`) is included which is necessary for
 :bdg:`NEST Desktop`.
 

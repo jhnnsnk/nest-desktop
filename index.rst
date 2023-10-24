@@ -29,7 +29,8 @@ Thus, no programming skills are required.
    :width: 100%
 
 
-You can tryout NEST Desktop as a restricted `live demo <https://nest-desktop.github.io/app>`__ without the simulation backend.
+You can tryout NEST Desktop as a restricted `live demo <https://nest-desktop.github.io/app>`_ without the simulation
+backend.
 
 
 |

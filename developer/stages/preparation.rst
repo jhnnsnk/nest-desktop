@@ -5,8 +5,8 @@ NEST Desktop is written in `Vue.js` (a web framework written in TypeScript), and
 transpiled to HTML5 and JavaScript Code. There are multiple ways to develop Vue applications, but my preferred way (and
 probably the most common one) to develop NEST Desktop is to use `Node.js` (and optionally `Yarn`). Therefore, if you do
 not use any of the container systems mentioned below, you will need to `install Node.js
-<https://nodejs.org/en/download/package-manager/>`__ (for Windows, an easy installation guide can be found `here
-<https://treehouse.github.io/installation-guides/windows/node-windows.html>`__ ), which gives you also the possibility
+<https://nodejs.org/en/download/package-manager/>`_ (for Windows, an easy installation guide can be found `here
+<https://treehouse.github.io/installation-guides/windows/node-windows.html>`_ ), which gives you also the possibility
 to install `Yarn`.
 
 Requirements

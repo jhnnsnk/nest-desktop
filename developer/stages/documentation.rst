@@ -1,14 +1,14 @@
 User documentation
 ==================
 
-We use reStructuredText for `Sphinx <https://www.sphinx-doc.org/en/master/>`__ to generate the documentation locally and
-online on `Read the Docs <https://readthedocs.org/>`__. To learn more about the syntax, check out `this quick reference
-<https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`__. Please have a look at the `coding
-conventions <coding-conventions.html>`__, too.
+We use reStructuredText for `Sphinx <https://www.sphinx-doc.org/en/master/>`_ to generate the documentation locally and
+online on `Read the Docs <https://readthedocs.org/>`_. To learn more about the syntax, check out `this quick reference
+<https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_. Please have a look at the `coding
+conventions <coding-conventions.html>`_, too.
 
 Requirements
-   - `Sphinx <https://www.sphinx-doc.org/en/master/>`__
-   - `Material Design Theme for Sphinx <https://bashtage.github.io/sphinx-material/>`__
+   - `Sphinx <https://www.sphinx-doc.org/en/master/>`_
+   - `Material Design Theme for Sphinx <https://bashtage.github.io/sphinx-material/>`_
 
 Use the working directory: ``nest-desktop/docs``. To install Sphinx and the Read the Docs theme via ``pip``:
 

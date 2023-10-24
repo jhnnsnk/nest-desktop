@@ -6,7 +6,7 @@ compatibility. In this concept a general rule of the semantic versioning NEST De
 operational capability of the application can be guaranteed.
 
 .. warning::
-   Please be aware of the differences to the official `Semantic versioning <https://semver.org/>`__ standard!
+   Please be aware of the differences to the official `Semantic versioning <https://semver.org/>`_ standard!
 
 The formal convention of the version releases for specifying compatibility in NEST Desktop uses a three-part number:
 

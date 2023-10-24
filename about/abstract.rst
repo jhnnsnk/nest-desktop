@@ -9,7 +9,7 @@ Nevertheless, the entry barrier remains high for students and early career scien
 in computational neuroscience since these simulators typically require programming skills
 and a complex installation.
 Here, we describe an installation-free graphical user interface (GUI) running
-in the web browser, which is distinct from the simulation engine running anywhere, 
+in the web browser, which is distinct from the simulation engine running anywhere,
 on the student’s laptop or on a supercomputer.
 
 This architecture provides robustness against technological changes in the software stack
@@ -24,7 +24,7 @@ and intensity of teaching in computational neuroscience in regular university co
 We view the availability of the tool on public resources like the European ICT infrastructure
 for neuroscience EBRAINS as a contribution to equal opportunities [#f2]_.
 
-A paper for NEST Desktop is available on `eNeuro <https://www.eneuro.org/content/8/6/ENEURO.0274-21.2021>`__.
+A paper for NEST Desktop is available on `eNeuro <https://www.eneuro.org/content/8/6/ENEURO.0274-21.2021>`_.
 
 .. rubric:: References
 .. [#f1] https://github.com/nest-desktop/nest-desktop

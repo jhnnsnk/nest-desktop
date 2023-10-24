@@ -4,7 +4,7 @@ Build and publish
 Currently, we build NEST Desktop for multiple targets and publish them on various platforms.
 
 .. note::
-   Please be aware that a lot of steps are already covered by our `GitLab CI process <continuous-integration.html#gitlab>`__.
+   Please be aware that a lot of steps are already covered by our `GitLab CI process <continuous-integration.html#gitlab>`_.
    Therefore, we recommend to inspect the ``.gitlab-ci.yml`` file together with this chapter.
    It might also be helpful to have a look at the commands defined in ``package.json``.
 
@@ -22,7 +22,7 @@ Python
 
 |br|
 
-Building and pushing NEST Desktop on `PyPI <https://pypi.org/project/nest-desktop/>`__ is a required step for the
+Building and pushing NEST Desktop on `PyPI <https://pypi.org/project/nest-desktop/>`_ is a required step for the
 production. After that, Docker Hub can upgrade NEST Desktop in the provided Docker image.
 
 Requirements
@@ -92,9 +92,9 @@ Conda
    :width: 240px
    :target: #production-conda
 
-We have a conda-smithy `repository for nest-desktop <https://github.com/nest-desktop/nest-desktop-conda>`__.
+We have a conda-smithy `repository for nest-desktop <https://github.com/nest-desktop/nest-desktop-conda>`_.
 When a new Python package is released, we can change the version in ``meta.yaml`` (|see| the meta content `online
-<https://github.com/nest-desktop/nest-desktop-conda/blob/main/recipe/meta.yaml>`__):
+<https://github.com/nest-desktop/nest-desktop-conda/blob/main/recipe/meta.yaml>`_):
 
 .. code-block::
 
@@ -148,7 +148,7 @@ Finally, upload the snap file:
 
 .. seeAlso::
    For Snap packages, you can find more information in the `Snap repository for nest-desktop
-   <https://github.com/nest-desktop/nest-desktop-snap>`__.
+   <https://github.com/nest-desktop/nest-desktop-snap>`_.
 
 .. |see| image:: /_static/img/icons/arrow-right.svg
    :alt: See
