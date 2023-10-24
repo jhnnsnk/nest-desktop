@@ -18,17 +18,19 @@ Requirements
 How to start NEST Desktop on Jupyter-JSC
 ----------------------------------------
 
-1. Go to `JSC-Jupyter <https://jupyter-jsc.fz-juelich.de/>`__.
+#. Go to `JSC-Jupyter <https://jupyter-jsc.fz-juelich.de/>`__.
 
-1. Login with JSC account.
+#. Login with JSC account.
 
-2. Create an JupyterLab
-   - Possible systems: JUWELS, JUWELSBooster, JURECA, HDF-Cloud
-   - In `Kernel and Extensions` tab: Check NEST Desktop
+#. Create an JupyterLab
 
-3. Start lab (with NEST Desktop proxy).
+   * Possible systems: JUWELS, JUWELSBooster, JURECA, HDF-Cloud
 
-4. In JupyterLab, click on NEST Desktop icon.
+   * In `Kernel and Extensions` tab: Check NEST Desktop
+
+#. Start lab (with NEST Desktop proxy).
+
+#. In JupyterLab, click on NEST Desktop icon.
 
 .. note::
    Please stop lab in landing page when you do not require it.
