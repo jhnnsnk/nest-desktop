@@ -2,6 +2,7 @@
    :hidden:
 
    about/index
+   online-services/index
    troubleshootings/index
 
 .. toctree::
