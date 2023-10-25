@@ -32,7 +32,7 @@ Steps on Jupyter JSC
 
          .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-config.png
 
-      - In `Kernel and Extensions` tab: Check NEST Desktop.
+      - In :bdg:`Kernel and Extensions`: Check NEST Desktop.
 
          .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-kernels-extensions.png
 
@@ -40,7 +40,7 @@ Steps on Jupyter JSC
 
       .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-start.png
 
-   #. In JupyterLab notebook, click on NEST Desktop icon.
+   #. In JupyterLab launcher, click on NEST Desktop icon.
 
       .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-notebook.png
 
