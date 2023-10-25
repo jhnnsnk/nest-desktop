@@ -32,7 +32,7 @@ Steps on Jupyter JSC
 
          .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-config.png
 
-      - In :bdg:`Kernel and Extensions`: Check NEST Desktop.
+      - In :bdg:`Kernel and Extensions`: Check NEST Desktop and then save the config.
 
          .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-kernels-extensions.png
 
