@@ -24,7 +24,7 @@ Steps on Jupyter JSC
 
       .. image:: /_static/img/screenshots/online-services/jupyter-jsc-login.png
 
-   #. Create a new JupyterLab
+   #. Create a new JupyterLab.
 
       .. image:: /_static/img/screenshots/online-services/jupyter-jsc-new-jupyterlab.png
 
@@ -32,7 +32,7 @@ Steps on Jupyter JSC
 
          .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-config.png
 
-      - In `Kernel and Extensions` tab: Check NEST Desktop
+      - In `Kernel and Extensions` tab: Check NEST Desktop.
 
          .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-kernels-extensions.png
 
