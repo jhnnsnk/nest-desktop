@@ -17,10 +17,9 @@ Requirements
 
 
 Steps on Jupyter JSC
-
    #. Go to `Jupyter JSC <https://jupyter-jsc.fz-juelich.de/>`_.
 
-   #. Login with JSC account.
+   #. Login with your JSC account.
 
       .. image:: /_static/img/screenshots/online-services/jupyter-jsc-login.png
 

@@ -20,4 +20,4 @@ Steps on EBRAINS
 
    #. Click on :bdg:`Launch online` button.
 
-   #. Login with EBRAINS account.
+   #. Login with your EBRAINS account.

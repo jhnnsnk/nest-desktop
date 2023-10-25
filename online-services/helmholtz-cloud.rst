@@ -19,12 +19,10 @@ Requirements
    collaborate seamlessly.
 
 
-How to use
-----------
+Steps on Helmholtz Cloud
+   #. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`_.
 
-#. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`_.
+   #. Go to NEST Desktop Service.
 
-#. Go to NEST Desktop Service.
-
-#. Login with Helmholtz ID.
+   #. Login with your Helmholtz ID or via your Uni account via Helmholtz AAI.
 
