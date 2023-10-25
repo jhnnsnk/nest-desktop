@@ -15,22 +15,36 @@ science, scientific computing, and machine learning.
 Requirements
    - `JSC account <https://judoor.fz-juelich.de/login>`_
 
-How to start NEST Desktop on Jupyter-JSC
-----------------------------------------
 
-#. Go to `Jupyter JSC <https://jupyter-jsc.fz-juelich.de/>`_.
+Steps on Jupyter JSC
 
-#. Login with JSC account.
+   #. Go to `Jupyter JSC <https://jupyter-jsc.fz-juelich.de/>`_.
 
-#. Create an JupyterLab
+   #. Login with JSC account.
 
-   * Possible systems: JUWELS, JUWELSBooster, JURECA, HDF-Cloud
+      .. image:: /_static/img/screenshots/online-services/jupyter-jsc-login.png
 
-   * In `Kernel and Extensions` tab: Check NEST Desktop
+   #. Create a new JupyterLab
 
-#. Start lab (with NEST Desktop proxy).
+      .. image:: /_static/img/screenshots/online-services/jupyter-jsc-new-jupyterlab.png
 
-#. In JupyterLab, click on NEST Desktop icon.
+      - Possible systems: JUWELS, JUWELSBooster, JURECA, HDF-Cloud
+
+         .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-config.png
+
+      - In `Kernel and Extensions` tab: Check NEST Desktop
+
+         .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-kernels-extensions.png
+
+   #. Start lab (with NEST Desktop proxy).
+
+      .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-start.png
+
+   #. In JupyterLab notebook, click on NEST Desktop icon.
+
+      .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-notebook.png
 
 .. note::
    Please stop lab in landing page when you do not require it.
+
+   .. image:: /_static/img/screenshots/online-services/jupyter-jsc-lab-open-stop.png

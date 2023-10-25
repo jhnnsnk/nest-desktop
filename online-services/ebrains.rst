@@ -13,11 +13,11 @@ Project, that gathers an extensive range of data and tools for brain related res
 Requirements
    - `EBRAINS account <https://www.ebrains.eu/page/sign-up>`_
 
-How to use
-----------
+Steps on EBRAINS
+   #. Go to `NEST Desktop on EBRAINS <https://www.ebrains.eu/tools/nest-desktop>`_.
 
-#. Go to `NEST Desktop on EBRAINS <https://www.ebrains.eu/tools/nest-desktop>`_.
+      .. image:: /_static/img/screenshots/online-services/ebrains-tools.png
 
-#. Click on `Launch online` button.
+   #. Click on :bdg:`Launch online` button.
 
-#. Login with EBRAINS account.
+   #. Login with EBRAINS account.
