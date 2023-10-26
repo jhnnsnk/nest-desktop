@@ -65,8 +65,8 @@ Build and start the NEST Desktop and NEST Simulator containers.
 
    docker-compose up --build
 
-NEST Desktop and NEST Simulator are now serving at ``http://localhost:54286`` and ``http://localhost:52425``, respectively.
-With :bdg:`CTRL` + :bdg:`C` you can shutdown these services.
+NEST Desktop and NEST Simulator are now serving at ``http://localhost:54286`` and ``http://localhost:52425``,
+respectively. With :bdg:`CTRL` + :bdg:`C` you can shutdown these services.
 
 .. rubric:: Configurations in :code:`docker-compose.yml`
 
