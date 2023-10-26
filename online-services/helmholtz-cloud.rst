@@ -20,9 +20,7 @@ Requirements
 
 
 Steps on Helmholtz Cloud
-   #. Go to `Helmholtz Cloud <https://helmholtz.cloud/>`_.
+   #. Go to `NEST Desktop on Helmholtz Cloud <https://nest-desktop.helmholtz-cloud.desy.de/>`_.
 
-   #. Go to NEST Desktop Service.
-
-   #. Login with your uni account via Helmholtz AAI.
+   #. Login with your account via Helmholtz AAI.
 
