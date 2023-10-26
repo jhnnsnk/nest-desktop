@@ -4,6 +4,13 @@ Events
 2023
 ----
 
+:04 Oct: `teacher training <https://www.bcf.uni-freiburg.de/general-public/schulen/20231004-lehrerfortbildung>`_ at BCF, Freiburg, Germany.
+:26 - 29 Sep: Poster "Complex workflows with NEST Desktop" at `Bernstein Conference 2023 <https://abstracts.g-node.org/conference/BC23/abstracts#/uuid/1ed0a0a8-2b8b-44f6-be75-4d5a44ef53c0>`_, Berlin, Germany.
+:11 - 13 Sep: Workshop and talk at HBP Concluding Event, Jülich, Germany.
+:15 Jul: Part of the tutorial "From single-cell modeling to large-scale network dynamics with NEST Simulator" at `CNS 23 <https://www.cnsorg.org/cns-2023>`_, Leipzig, Germany.
+:05 - 07 Jul: Talk at HCI Sommer Colloquium, Trier, Germany.
+:08 May: Crash course for student course "Models of Neurons and Networks", BCF, Freiburg, Germany.
+:27 - 31 Mar: Workshop at `HBP Summit 2023 <https://summit2023.humanbrainproject.eu>`_, Marseille, France.
 :13 - 24 Feb: BSc course "Simple Neuron Models" at BCF [#f1]_, Freiburg, Germany.
 :18 Jan: Part of the talk at CENIA, presented by Markus Diesmann, Santiago, Chile.
 :18 - 20 Jan: Poster at `7th HBP Student Conference <https://www.humanbrainproject.eu/en/education-training-career/HBPSC2023/>`_, Madrid, Spain.
@@ -12,7 +19,7 @@ Events
 ----
 
 :07 - 10 Nov: Session talk "NEST Desktop" at `Simulate with EBRAINS <https://flagship.kip.uni-heidelberg.de/jss/HBPm?m=showAgenda&meetingID=242>`_, online.
-:13 - 16 Sep: Poster "NEST Desktop: Explore new frontiers" at `Bernstein Conference 2021 <https://abstracts.g-node.org/conference/BC22/abstracts#/uuid/b205c368-bbfa-473f-a249-eb866c9fdffc>`_, Berlin, Germany.
+:13 - 16 Sep: Poster "NEST Desktop: Explore new frontiers" at `Bernstein Conference 2022 <https://abstracts.g-node.org/conference/BC22/abstracts#/uuid/b205c368-bbfa-473f-a249-eb866c9fdffc>`_, Berlin, Germany.
 :20 - 21 Jul: Talk "NEST Desktop" at HCI Summer Colloquium, Trier, Germany.
 :16 Jul: NEST Desktop is part of the onsite tutorial "T1: From single-cell modeling to large-scale network dynamics with NEST Simulator." of `CNS 2022 <https://www.cnsorg.org/cns-2022-tutorials>`_, presented by Jasper Albers, Pooja Babu and Charl Linssen, Melbourne, Australia.
 :03 - 09 Jul: Part of the workshop "NEST Workshop: network and plasticity" at `9th BNNI <http://bionn.matinf.uj.edu.pl/events/bnni2022/#program>`_, presented by Jasper Albers, Krakau, Poland.
