@@ -19,7 +19,7 @@ Events
 ----
 
 :07 - 10 Nov: Session talk "NEST Desktop" at `Simulate with EBRAINS <https://flagship.kip.uni-heidelberg.de/jss/HBPm?m=showAgenda&meetingID=242>`_, online.
-:13 - 16 Sep: Poster "NEST Desktop: Explore new frontiers" at `Bernstein Conference 2021 <https://abstracts.g-node.org/conference/BC22/abstracts#/uuid/b205c368-bbfa-473f-a249-eb866c9fdffc>`_, Berlin, Germany.
+:13 - 16 Sep: Poster "NEST Desktop: Explore new frontiers" at `Bernstein Conference 2022 <https://abstracts.g-node.org/conference/BC22/abstracts#/uuid/b205c368-bbfa-473f-a249-eb866c9fdffc>`_, Berlin, Germany.
 :20 - 21 Jul: Talk "NEST Desktop" at HCI Summer Colloquium, Trier, Germany.
 :16 Jul: NEST Desktop is part of the onsite tutorial "T1: From single-cell modeling to large-scale network dynamics with NEST Simulator." of `CNS 2022 <https://www.cnsorg.org/cns-2022-tutorials>`_, presented by Jasper Albers, Pooja Babu and Charl Linssen, Melbourne, Australia.
 :03 - 09 Jul: Part of the workshop "NEST Workshop: network and plasticity" at `9th BNNI <http://bionn.matinf.uj.edu.pl/events/bnni2022/#program>`_, presented by Jasper Albers, Krakau, Poland.

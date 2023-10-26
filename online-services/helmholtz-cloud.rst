@@ -24,5 +24,5 @@ Steps on Helmholtz Cloud
 
    #. Go to NEST Desktop Service.
 
-   #. Login with your Helmholtz ID or via your Uni account via Helmholtz AAI.
+   #. Login with your uni account via Helmholtz AAI.
 
