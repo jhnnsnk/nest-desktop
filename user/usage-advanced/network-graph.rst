@@ -61,9 +61,9 @@ Node labels
 -----------
 
 Each node graph is labeled to identify the model of the node.
-By default, it creates a direct current generator (:bdg:`dc`) for a stimulus
-and a voltmeter (:bdg:`vm`) for a recording device.
-Neurons are just labeled with :bdg:`n`.
+By default, it creates a direct current generator (dc) for a stimulus
+and a voltmeter (vm) for a recording device.
+Neurons are just labeled with (n).
 You can find the full label of the node model in the network controller.
 
 Node colors
