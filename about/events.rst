@@ -4,6 +4,13 @@ Events
 2023
 ----
 
+:04 Oct: `Teacher training <https://www.bcf.uni-freiburg.de/general-public/schulen/20231004-lehrerfortbildung>`_ at BCF, Freiburg, Germany.
+:26 - 29 Sep: Poster "Complex workflows with NEST Desktop" at `Bernstein Conference 2023 <https://abstracts.g-node.org/conference/BC23/abstracts#/uuid/1ed0a0a8-2b8b-44f6-be75-4d5a44ef53c0>`_, Berlin, Germany.
+:11 - 13 Sep: Workshop and talk at HBP Concluding Event, Jülich, Germany.
+:15 Jul: Part of the tutorial "From single-cell modeling to large-scale network dynamics with NEST Simulator" at `CNS 23 <https://www.cnsorg.org/cns-2023>`_, Leipzig, Germany.
+:05 - 07 Jul: Talk at HCI Sommer Colloquium, Trier, Germany.
+:08 May: Crash course for student course "Models of Neurons and Networks", BCF, Freiburg, Germany.
+:27 - 31 Mar: Workshop at `HBP Summit 2023 <https://summit2023.humanbrainproject.eu>`_, Marseille, France.
 :13 - 24 Feb: BSc course "Simple Neuron Models" at BCF [#f1]_, Freiburg, Germany.
 :18 Jan: Part of the talk at CENIA, presented by Markus Diesmann, Santiago, Chile.
 :18 - 20 Jan: Poster at `7th HBP Student Conference <https://www.humanbrainproject.eu/en/education-training-career/HBPSC2023/>`__, Madrid, Spain.
