@@ -56,8 +56,8 @@ To generate static publication-ready visualizations of network graphs in agreeme
 
 .. _node:
 
-Network node
-============
+**Network node**
+----------------
 
 A network node in the notation represents one or multiple units. 
 These units are either neuron or neural population models, or devices providing input or output. Network connectivity is defined between these graphically represented nodes. Nodes are drawn as basic shapes. A textual label can be placed inside the node for identification. Nodes are differentiated according to a node class and a node type.
@@ -195,8 +195,9 @@ as well as the corresponding visualization of the network activity.
 
 .. _edge:
 
-Network edge
-============
+**Network edge**
+----------------
+
 A network edge represents a connection or projection between two nodes.
 Edges are depicted as arrows. Both straight and curved lines are possible. Edges are differentiated according to the categories determinism, edge type, and directionality.
 
@@ -321,8 +322,8 @@ In NEST Desktop, the edge color is determined by the color of the source node.
 
 .. _annotation:
 
-Annotation
-==========
+**Annotation**
+--------------
 
 Network edges can be annotated with information about the connection or projection they represent. Details on the rule specifying the existence of connections and their parameterization may be put along the arrow.
 
@@ -360,7 +361,7 @@ Specific constraint or exception to the connectivity concept.
 
 
 Parameterization
----------------------------
+----------------
 .. image:: /_static/img/network_model/parameterization.png
 	:align: right
 	:width: 300px
@@ -393,8 +394,8 @@ For a discussion on customization and extension see [1]_.
 
 .. _example:
 
-Example
-===========
+**Example**
+-----------
 
 .. grid:: 2
 
