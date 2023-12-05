@@ -1,5 +1,7 @@
-Graphical Notation Extension for LibreOffice
-==============================================
+.. _libreoffice_extension:
+
+LibreOffice extension for the graphical notation
+================================================
 
 This tool simplifies the process of creating network graphs by offering a gallery tool for LibreOffice. Users can effortlessly drag and drop various nodes and edges. This tool streamlines network graph creation by providing a gallery feature for LibreOffice. Users can conveniently drag and drop different nodes and edges. You can download the extension here:
 
